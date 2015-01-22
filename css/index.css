@@ -69,7 +69,10 @@ body{
 .page-5-1{ background-color:#C1F795;}
 .page-5-2{ background-color:#ED598B;}
 .page-5-3{ background-color:#97B7C4;}
-.page-5-4{ background-color:#D7DF21;}
+.page-5-4{ background-color:#FFFFCB;}
+.page-5-5{ background-color:#B8B8B8;}
+.page-5-6{ background-color:#FCF0E0;}
+.page-5-7{ background-color:#FFFDE2;}
 .page-6-1{ background-color:#C04178;}
 .page-6-2{ background-color:#E0EFF4;}
 .page-6-3{ background-color:#FEBEBF;}
@@ -132,6 +135,17 @@ body{
 	left:50%;
 	top:93%;
 	margin-left:-12px;
+}
+
+.page-1-1 p {
+	width:100px;
+	position:absolute;
+	left:50%;
+	bottom:0%;
+	margin-left:-50px;
+	z-index:1;
+	font-size:0.75rem;
+	color:white
 }
 .page-2-1 .img_1 {
 	height:auto;width:158px;
@@ -435,14 +449,14 @@ body{
 	margin-left:-84px;
 	z-index:2;
 }
-.page-5-2 .img_1,.page-5-3 .img_1,.page-5-4 .img_1{
+.page-5-2 .img_1,.page-5-3 .img_1,.page-5-4 .img_1,.page-5-5 .img_1,.page-5-6 .img_1,.page-5-7 .img_1{
 	height:auto;width:293px;
 	position:absolute;
 	left:50%;
 	top:5%;
 	margin-left:-146px;
 }
-.page-5-2 p,.page-5-3 p,.page-5-4 p{
+.page-5-2 p,.page-5-3 p,.page-5-4 p,.page-5-5 p,.page-5-6 p,.page-5-7 p{
 	width:293px;
 	position:absolute;
 	left:50%;
