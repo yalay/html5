@@ -133,7 +133,6 @@ function keyDown(){
 			
 		case 38:
 			swipeDown();
-			
 			break;
 		case 39:
 			swipeLeft();

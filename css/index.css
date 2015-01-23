@@ -19,8 +19,12 @@ body{
 	height:500px;
 }
 
-.audiojs { 
-	width:0;
+.play_music,.img_play_music,.img_pause_music{ 
+	width:30px;
+	position:absolute;
+	right:3%;
+	bottom:3%;
+	z-index:5;
 }
 
 .page-1-1{ background-color:#FE6591;}
