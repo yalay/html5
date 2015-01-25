@@ -77,6 +77,7 @@ body{
 .page-5-5{ background-color:#B8B8B8;}
 .page-5-6{ background-color:#FCF0E0;}
 .page-5-7{ background-color:#FFFDE2;}
+.page-5-8{ background-color:#B5E0F5;}
 .page-6-1{ background-color:#C04178;}
 .page-6-2{ background-color:#E0EFF4;}
 .page-6-3{ background-color:#FEBEBF;}
@@ -460,7 +461,12 @@ body{
 	top:5%;
 	margin-left:-146px;
 }
-.page-5-2 p,.page-5-3 p,.page-5-4 p,.page-5-5 p,.page-5-6 p,.page-5-7 p{
+
+.page-5-8 .video_1{
+	margin-top:5%;
+}
+
+.page-5-2 p,.page-5-3 p,.page-5-4 p,.page-5-5 p,.page-5-6 p,.page-5-7 p,.page-5-8 p{
 	width:293px;
 	position:absolute;
 	left:50%;

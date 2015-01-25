@@ -11,6 +11,10 @@
 		<link rel="stylesheet" type="text/css" href="css/reset.css" />
 		<link rel="stylesheet" type="text/css" href="css/index.css" />
 		<link rel="stylesheet" type="text/css" href="css/animations.css" />
+		<script src="js/zepto.min.js"></script>
+		<script src="js/touch.js"></script>
+		<script src="js/music.js"></script>
+		<script src="js/index.js"></script>
 	</head>
 	<body>
 		<div>
@@ -19,7 +23,7 @@
 					<img class="img_1 pt-page-moveFromTop" src="img/cover.png" />
 					<img class="img_2 pt-page-moveFromLeft" src="img/wording_cover.png" />
 					<img class="img_3 pt-page-moveIconUp" src="img/icon_up.png" />
-					<p >V2.5.8&nbsp;&nbsp;&nbsp;T15.1.22</p>
+					<p >V3.5.9&nbsp;&nbsp;&nbsp;T15.1.25</p>
 				</div>
 			</div>
 			<div class="page page-2-1 hide">
@@ -424,14 +428,10 @@
 					<p >文字</p>
 				</div>
 			</div>
-		</div>	
-		<script src="js/zepto.min.js"></script>
-		<script src="js/touch.js"></script>
-		<script src="js/index.js"></script>
-		<script src="js/music.js"></script>
-		<audio id="my_audio" src="jiaojiao.mp3" autoplay="autoplay" loop="loop" preload="auto"></audio>
-		<div class="play_music" onclick="PlayMusic()">
-			<img id="img_play_music" class="img_play_music" src="img/play.png" />
+		</div>		
+		<div class="play_music" onclick="SwitchPlayMusic()">
+			<audio id="my_audio" src="jiaojiao.mp3" autoplay="autoplay" loop="loop" preload="auto"></audio>
+			<img id="img_play_music" class="img_play_music hide" src="img/play.png" />
 			<img id="img_pause_music" class="img_pause_music hide" src="img/silent.png" />
 		</div>
 		<script src="http://s11.cnzz.com/stat.php?id=1253893193&web_id=1253893193" language="JavaScript"></script>

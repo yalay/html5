@@ -121,6 +121,8 @@ function pageMove(tw){
 		
 		isAnimating = false;
 	},600);
+	
+	RefreshMusicImg();
 }
 
 // 键盘操作的方向和触摸屏拨动是反的
@@ -146,4 +148,5 @@ function keyDown(){
 			break;	
 	}	
 }
+
 })();
