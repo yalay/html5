@@ -66,16 +66,22 @@ body{
 .page-5-2{ background-color:#ED598B;}
 .page-5-3{ background-color:#97B7C4;}
 .page-5-4{ background-color:#4BC9EF;}
+.page-5-5{ background-color:#FFFFFF;}
+.page-5-6{ background-color:#F7D6B7;}
 .page-5-7{ background-color:#B8B8B8;}
 .page-5-8{ background-color:#FCF0E0;}
 .page-5-9{ background-color:#FFFDE2;}
-.page-5-5{ background-color:#FFFFFF;}
-.page-5-6{ background-color:#F7D6B7;}
+.page-5-10{ background-color:#97D9F8;}
+.page-5-11{ background-color:#A7A8A3;}
 .page-6-1{ background-color:#C04178;}
 .page-6-2{ background-color:#E0EFF4;}
 .page-6-3{ background-color:#FEBEBF;}
 .page-6-4{ background-color:#C62894;}
 .page-6-5{ background-color:#F1DFDF;}
+.page-7-1,.page-7-2,.page-7-3,.page-7-4{ 
+	background-color:pink;
+}
+
 
 .play_music,.img_play_music,.img_pause_music{ 
 	width:30px;
@@ -257,4 +263,23 @@ p{
 .page-6-4 p{
 	font-size:1rem;
 	color:#FFFFFF
+}
+
+.page-7-1 .img_people {
+	height:auto;width:180px;
+	position:absolute;
+	left:50%;
+	top:35%;
+	margin-left:-90px;
+}
+
+p7{
+	width:200px;
+	position:absolute;
+	left:50%;
+	top:13%;
+	margin-left:-100px;
+	z-index:1;
+	font-size:1.5rem;
+	color:#EC0205
 }
