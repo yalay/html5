@@ -10,4 +10,5 @@
 4. 各种图片素材都是精心挑选修改的。
 
 #### demo
-![开篇](https://github.com/yalay/html5/blob/master/img/cover.png)
+[在线演示地址](http://yalay.github.io/html5/)  
+![开篇图片](https://github.com/yalay/html5/raw/master/img/cover.png)
