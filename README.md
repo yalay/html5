@@ -9,6 +9,6 @@
 3. 方向提示按钮按照内容切换方式更新为对应的方向提示。
 4. 各种图片素材都是精心挑选修改的。
 
-#### demo
+### demo
 [在线演示地址](http://yalay.github.io/html5/)  
 ![开篇图片](https://github.com/yalay/html5/raw/master/img/cover.png)
