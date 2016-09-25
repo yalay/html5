@@ -10,5 +10,5 @@
 4. 各种图片素材都是精心挑选修改的。
 
 ### demo
-[在线演示地址](http://yalay.github.io/html5/)  
+[在线演示地址](http://yalay.github.io/html5/)   (貌似github.io是被墙的，需要翻墙浏览。或者自己clone下来，点击index.html即可)
 ![开篇图片](https://github.com/yalay/html5/raw/master/img/cover.png)
